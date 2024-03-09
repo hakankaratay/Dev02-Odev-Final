@@ -26,6 +26,7 @@ public class Odev04 {
             }
         }
         System.out.println("Diğer kelimeler tekrar etmediği için görüntülenmedi.");
+        System.out.println("bbb");
 
     }
 }

@@ -35,6 +35,7 @@ public class Odev05 {
             kelime[i] = temp;
             System.out.println("ddd");
             System.out.println("aaa");
+
         }
     }
 }
