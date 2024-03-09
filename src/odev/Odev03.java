@@ -26,5 +26,6 @@ public class Odev03 {
             }
         }
         System.out.println("Diğer karakterler tekrar etmediği için görüntülenmedi.");
+
     }
 }

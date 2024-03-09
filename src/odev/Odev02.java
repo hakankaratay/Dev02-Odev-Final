@@ -26,5 +26,6 @@ public class Odev02 {
         } else {
             System.out.println(a + " ifadesi palindrom değildir.");
         }
+
     }
 }
