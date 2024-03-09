@@ -33,6 +33,7 @@ public class Odev05 {
             temp = kelime[indeks];
             kelime[indeks] = kelime[i];
             kelime[i] = temp;
+            System.out.println("ddd");
         }
     }
 }
